@@ -15,11 +15,11 @@ Telefoon: 0652113998
 
 ## Bestuur
 
-* Bas Devize (Voorzitter)
+* Bas Defize (Voorzitter)
 * Dirk den Hamer (Penningmeester)
 * Diederik Verheul (Secretaris)
 * Miel Gerritse
-* Tieneke Mergler
+* Tineke Mergler
 * Bandi
 * Berik Visschers
 
@@ -32,6 +32,5 @@ You can find the source code for Minima at GitHub:
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
-
 
 [jekyll-organization]: https://github.com/jekyll -->
