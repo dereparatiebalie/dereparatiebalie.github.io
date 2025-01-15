@@ -1,8 +1,13 @@
+---
+# bla
+---
 
-.site-title::before {
-	content: url("/alsprolog-logo.png");
+@import "minima";
+
+.site-title {
+	content: url("/assets/DeReparatiebalie_logo.jpeg");
 	display: inline-block;
 	position: relative;
-	width: 37px;
+	width: 200px;
 	top: 5px;
 }
