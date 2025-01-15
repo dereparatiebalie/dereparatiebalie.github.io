@@ -6,13 +6,18 @@ permalink: /about/
 
 ## Contact
 
-info@dereparatiebalie.nl (pas op, nog niet actief)
+De Reparatiebalie,  
+Godebaldkwartier 89  
+3511 DN Utrecht  
+Website: [www.dereparatiebalie.nl](http://www.dereparatiebalie.nl)  
+Email: [info@dereparatiebalie.nl](mailto:info@dereparatiebalie.nl)  
+Telefoon: 0652113998  
 
 ## Bestuur
 
 * Bas Devize (Voorzitter)
 * Dirk den Hamer (Penningmeester)
-* Diederik Verheul
+* Diederik Verheul (Secretaris)
 * Miel Gerritse
 * Tieneke Mergler
 * Bandi
