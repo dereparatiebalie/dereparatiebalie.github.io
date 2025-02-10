@@ -15,7 +15,7 @@ De Reparatiebalie is een belangrijk initiatief  naast de repaircafés  om  huish
 
 **Hoe doen we dat**: Anders dan de reguliere repaircafé’s zijn wij hele dagen geopend voor het aanbrengen van reparaties. Ook anders is dat je als klant niet bij de reparatie hoeft te blijven. Je levert je te repareren goederen af aan onze balie, en je krijgt een telefoontje als de reparatie klaar is. We nemen contact met je op als er nieuwe onderdelen nodig zijn.
 
-**Wanneer gaan we open:** De officiële opening vindt plaats in de week van de Circulaire economie, van 17 tot 22 maart, We zullen de eerste tijd geopend zijn op woensdagen en vrijdagen van 10:00 tot 17:00 voor klanten en de hele week voor reparateurs. Het is de bedoeling dat de openingstijden voor klanten in een later stadium worden uitgebreid.
+**Wanneer gaan we open:** [De officiële opening](/opening) vindt plaats in de week van de Circulaire economie. We zullen de eerste tijd geopend zijn op woensdagen en vrijdagen van 10:00 tot 17:00 voor klanten en de hele week voor reparateurs. Het is de bedoeling dat de openingstijden voor klanten in een later stadium worden uitgebreid.
 
 **Onze contactgegevens**:
 
