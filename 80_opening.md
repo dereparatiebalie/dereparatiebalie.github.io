@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Opening De Reparatiebalie
+nav_title: Opening
 permalink: /opening/
 ---
 
