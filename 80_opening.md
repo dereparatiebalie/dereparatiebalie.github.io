@@ -12,12 +12,11 @@ Hier kunt u meegebrachte kleding en apparaten laten repareren.
 We repareren geen fietsen, mobiele telefoons en laptops. Ook repareren we geen grote apparaten zoals wasmachines, magnetrons, etc.
 De pop-up repaircafé vind plaats op het plein voor de Albert Heijn. Eenvoudig te bereiken via de ingang van Hoog Catharijne aan het Moreelsepark.
 
-Woensdag 19 maart  
-Van 13:00 tot 16:00  
+**Woensdag 19 maart**  
+**Van 13:00 tot 16:00**  
 [Zet in kalender](/assets/opening_uitnodiging.ics)
 
 [Godebaldkwartier 89, 3511 DN Utrecht](https://maps.app.goo.gl/jJ5CNqvVDvdb5UXr8)  
 Bij het plein voor de Albert Heijn.  
 
 ![Plattegrond Hoog Catharijne](/assets/plattegrond_hc2.png)
-
