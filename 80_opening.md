@@ -5,7 +5,7 @@ nav_title: Opening
 permalink: /opening/
 ---
 
-Je bent van harte uitgenodigd bij de officiële opening van De Reparatiebalie.
+Je bent van harte uitgenodigd bij de officiële opening van De Reparatiebalie!
 
 Tijdens de opening van De Reparatiebalie organiseren we een pop-up repaircafé.
 Hier kunt u meegebrachte kleding en apparaten laten repareren.
