@@ -9,7 +9,7 @@ permalink: /about/
 
 In Hoog Catharijne, vlak bij de ingang Moreelsepark, tegenover de Kruitvat en naast de Albert Heijn.
 ![Plattegrond Hoog Catharijne](/assets/plattegrond_hc2.png)
-[Godebaldkwartier 89, 3511 DN Utrecht](https://maps.app.goo.gl/jJ5CNqvVDvdb5UXr8)  
+[Godebaldkwartier 89, 3511 DN Utrecht](https://maps.app.goo.gl/NNqvhNuKh5XBKmkT9)  
 
 ## Contact
 

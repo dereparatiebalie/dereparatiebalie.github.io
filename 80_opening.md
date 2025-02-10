@@ -16,7 +16,7 @@ De pop-up repaircafé vind plaats op het plein voor de Albert Heijn. Eenvoudig t
 **Van 13:00 tot 16:00**  
 [Zet in kalender](/assets/opening_uitnodiging.ics)
 
-[Godebaldkwartier 89, 3511 DN Utrecht](https://maps.app.goo.gl/jJ5CNqvVDvdb5UXr8)  
+[Godebaldkwartier 89, 3511 DN Utrecht](https://maps.app.goo.gl/NNqvhNuKh5XBKmkT9)  
 Bij het plein voor de Albert Heijn.  
 
 ![Plattegrond Hoog Catharijne](/assets/plattegrond_hc2.png)
