@@ -19,5 +19,5 @@ Van 13:00 tot 16:00
 [Godebaldkwartier 89, 3511 DN Utrecht](https://maps.app.goo.gl/jJ5CNqvVDvdb5UXr8)  
 Bij het plein voor de Albert Heijn.  
 
-![Plattegrond Hoog Catharijne](/assets/plattegrond_hc.png)
+![Plattegrond Hoog Catharijne](/assets/plattegrond_hc2.png)
 
