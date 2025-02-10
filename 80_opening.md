@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Opening De Reparatiebalie
+title: Openingsevenement De Reparatiebalie
 nav_title: Opening
 permalink: /opening/
 ---
