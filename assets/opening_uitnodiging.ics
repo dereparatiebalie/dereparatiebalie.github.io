@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+LAST-MODIFIED:20240422T053450Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250210T150934Z
+UID:1739200136950-55280@ical.marudot.com
+DTSTART;TZID=Europe/Brussels:20250319T130000
+DTEND;TZID=Europe/Brussels:20250319T160000
+SUMMARY:Pop-up repaircafé De Reparatiebalie
+URL:https://dereparatiebalie.nl/opening/
+DESCRIPTION:Tijdens de opening van De Reparatiebalie organiseren we een pop-up repaircafé.\nHier kunt u meegebrachte kleding en apparaten laten repareren.\nWe repareren geen fietsen\, mobile telefoons en laptops. Ook repareren we geen grote apparaten zoals wasmachines\, magnetron\, etc.\nDe pop-up repaircafé vind plaats op het plein voor de Albert Heijn. Eenvoudig te bereiken via de ingang van Hoog Catharijne aan het Moreelsepark.\n\n
+LOCATION:Godebaldkwartier 89\, 3511 DN Utrecht
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pop-up repaircafé De Reparatiebalie
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
