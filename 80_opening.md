@@ -7,7 +7,7 @@ permalink: /opening/
 
 Je bent van harte uitgenodigd bij de officiële opening van De Reparatiebalie!
 
-<img src="/assets/opening.jpeg" alt="Deuren open" />
+<img src="/assets/open_deur.jpeg" alt="Deuren open" />
 
 Tijdens de opening van De Reparatiebalie organiseren we een pop-up repaircafé.
 Hier kunt u meegebrachte kleding en apparaten laten repareren.
