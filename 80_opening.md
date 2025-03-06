@@ -9,7 +9,7 @@ Je bent van harte uitgenodigd bij de officiële opening van De Reparatiebalie ti
 
 <img src="/assets/open_deur.jpeg" alt="Deuren open" />
 
-Tijdens de opening van De Reparatiebalie organiseren we een pop-up repaircafé op het grote plein voor onze balie en de AH in Hoog Catharijne, ingang Moreelse park.. We starten om 13.00 en u kunt langskomen met te repareren spullen tot 16.00 uur.
+Tijdens de opening van De Reparatiebalie organiseren we een pop-up repaircafé op het grote plein voor onze balie en de AH in Hoog Catharijne, ingang Moreelse park. We starten om 13.00 en u kunt langskomen met te repareren spullen tot 16.00 uur.
 Je kunt dan huishoudelijke apparaten en meegebrachte kleding laten repareren. Wij repareren alles wat je zelf kunt dragen, met uitzondering van fietsen,
 mobiele telefoons, laptops en TV's, precies wat we na de opening ook in De Reparatiebalie gaan doen. Wat wij daarvoor terugvragen is een vrijwillige donatie.
 
