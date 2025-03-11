@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Workshops
+nav_title: Workshops
+permalink: /workshop/
 ---
 
 Bij De Reparatiebalie worden verschillende workshops gegeven. Hieronder zie je een overzicht.
