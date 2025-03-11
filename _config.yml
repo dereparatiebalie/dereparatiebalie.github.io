@@ -37,7 +37,7 @@ header_pages:
   - index.md
   - 70_aanmelden.md
   - 80_opening.md
-  - /workshop/index.md
+  - workshop/index.md
   - 90_over.md
 
 exclude:
