@@ -5,6 +5,11 @@ title: De Reparatiebalie
 
 De Reparatiebalie is een belangrijk initiatief  naast de repaircafés  om  huishoudelijke apparatuur in de ruimste zin van het woord en andere goederen zoals kleding en speelgoed een langer leven te geven. Daarmee slaan we meerdere vliegen in één klap: we voorkomen het onnodig weggooien en vervangen van spullen; we dragen bij aan een circulaire economie; we verminderen de afvalberg; we zorgen ervoor dat spullen die nergens anders voor een redelijk bedrag zijn te repareren een tweede leven krijgen; en last but not least: het is goed voor het milieu en de portemonnee van de eigenaren.
 
+## Workshop Elektriciteit in huis
+
+Leer zelf je elektriciteitsproblemen oplossen! Wil je zelf kleine elektrische problemen in huis oplossen, maar weet je niet waar te beginnen? In de workshop
+Elektriciteit in huis leer je op een praktische manier de basis van veilig omgaan met elektriciteit. [Lees meer](/workshop/elektriciteit_in_huis).
+
 **Wie zijn wij**: een grote groep vrijwilligers, vooral afkomstig uit de verschillende repaircafé’s in en rond Utrecht, verenigd in Stichting De Reparatiebalie. We hebben een passie voor repareren en voor het samen werken aan uitdagende projecten.
 
 **Wat doen wij**: We repareren alles wat binnen onze vermogens ligt, en dat door één persoon te voet of op de fiets te vervoeren is, met uitzondering van fietsen, mobiele telefoons en laptops. Dat doen we tegen een vrijwillige bijdrage (waarbij we erop rekenen dat die in een redelijke verhouding staat tot de geleverde prestatie) en met nieuwe onderdelen tegen kostprijs als dat nodig is. De vrijwillige bijdrage gebruiken we om onze onkosten te dekken (huur, gereedschap, vervoer, internet, warmte etc.). Wij geven geen garantie dat reparaties succesvol zijn, maar we garanderen wel dat we onze uiterste best doen om een goed resultaat te bereiken.
