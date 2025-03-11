@@ -31,4 +31,4 @@ Telefoon: 0652113998
 
 ## Algemene voorwaarden
 
-[Algemene Voorwaarden De Reparatiebalie](/assets/20250115_AV_De_Reparatiebalie_versie_1.0.pdf)
+[Algemene Voorwaarden De Reparatiebalie](/assets/20250311_AV_De_Reparatiebalie_versie_1.1.pdf)
