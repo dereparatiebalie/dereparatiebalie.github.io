@@ -31,7 +31,7 @@ Ervaren reparateurs van de Reparatiebalie.
 € 5 met een U-pas
 
 ***Aanmelden***  
-Stuur een mail naar [**info@dereparatiebalie.nl**](mailto:info@dereparatiebalie.nl), dan ontvang je een bevestiging met een betaalverzoek.
+Stuur een mail naar [**workshop@dereparatiebalie.nl**](mailto:workshop@dereparatiebalie.nl), dan ontvang je een bevestiging met een betaalverzoek.
 
 ***Meer leren?***  
 Binnenkort starten we ook workshops over het repareren van elektrische apparaten en elektronica. Houd [dereparatiebalie.nl/workshop](/workshop) in de gaten voor data.
